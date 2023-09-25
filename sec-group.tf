@@ -185,7 +185,7 @@ output "security_group_ids" {
 # }
 
 # variable "my_ip" {
-#   description = "70.64.49.74/32"
+#   description = "my ip"
 # }
 
 # output "security_group_ids" {
